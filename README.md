@@ -1,3 +1,5 @@
+# 📊 Daily Job Preparation Reflection System
+
 ```mermaid
 flowchart TD
 
@@ -30,9 +32,11 @@ M -->|Distraction| R[Reduce distractions]
 
 ## 🤖 AI Agent
 
-This project includes a simple AI agent that evaluates daily job preparation activities.
+This project includes a rule-based AI agent designed to simulate decision-making for daily job preparation evaluation.
 
 The agent takes inputs such as job applications, learning, and practice, and provides meaningful feedback based on predefined logic.
+
+The system ensures transparency and reliability by avoiding probabilistic outputs and relying on deterministic logic.
 
 ---
 
