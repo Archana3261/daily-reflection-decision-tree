@@ -58,12 +58,18 @@ python agent.py
 
 ---
 
-## 🧪 Example Output
+### Example
 
-Input:
-Applied = No  
-Studied = Yes  
-Practiced = No  
+**Input:**
+- Applied = No  
+- Studied = Yes  
+- Practiced = No  
 
-Output:
-Convert learning into practice 
+**Output:**
+Convert learning into practice
+
+## Future Improvements
+
+- Convert rule-based system into ML-based adaptive system  
+- Add user interface (web/app)  
+- Integrate real-time tracking of job applications  
