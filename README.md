@@ -26,3 +26,40 @@ M -->|Time Issue| P[Improve time management]
 M -->|Low Motivation| Q[Set small daily goals]
 M -->|Distraction| R[Reduce distractions]
 ```
+
+
+## 🤖 AI Agent
+
+This project includes a simple AI agent that evaluates daily job preparation activities.
+
+The agent takes inputs such as job applications, learning, and practice, and provides meaningful feedback based on predefined logic.
+
+---
+
+## 🛡️ Guardrails Implemented
+
+- Input validation ensures only valid responses are accepted  
+- Rule-based logic prevents AI hallucination  
+- Outputs are predefined and controlled  
+- No random or misleading responses  
+- Handles missing or invalid inputs safely  
+
+---
+
+## ⚙️ How to Run
+
+```bash
+python agent.py
+```
+
+---
+
+## 🧪 Example Output
+
+Input:
+Applied = No  
+Studied = Yes  
+Practiced = No  
+
+Output:
+Convert learning into practice 
